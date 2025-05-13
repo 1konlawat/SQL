@@ -1,7 +1,0 @@
-| id | first\_name | last\_name | department | salary | hire\_date |
-| -- | ----------- | ---------- | ---------- | ------ | ---------- |
-| 1  | John        | Smith      | Sales      | 50000  | 2015-06-01 |
-| 2  | Jane        | Doe        | HR         | 60000  | 2018-03-15 |
-| 3  | Alice       | Johnson    | IT         | 75000  | 2019-11-20 |
-| 4  | Bob         | Lee        | Sales      | 52000  | 2016-09-10 |
-| 5  | Charlie     | Kim        | IT         | 72000  | 2020-01-25 |

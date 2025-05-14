@@ -1,1 +1,7 @@
-  <span style="color:red; font-size:240px;"><strong>SELECT</strong></span>
+<pre>
+```sql
+SELECT name, email
+FROM users
+WHERE status = 'active';
+```
+</pre>
